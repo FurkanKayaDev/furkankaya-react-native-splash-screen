@@ -20,10 +20,8 @@ Splash screen for React Native that hides automatically after the app loads, wor
 
 
 ## Examples  
-![android](https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/79e986cc-ced8-4580-abbf-70c1720b3ab2)
-
-![android](https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/ac0e6cdc-25c5-4926-98f7-1d26dee51584)
-
+![iOS](https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/5eecfcff-dfa8-45f2-ae22-8eae0ad618e8)
+![android](https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/813a9825-c4f5-406d-b9c3-5828416f2cf3)
 
 
 ## Installation
