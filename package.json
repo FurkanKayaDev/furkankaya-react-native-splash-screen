@@ -1,0 +1,26 @@
+{
+  "name": "@furkankayadev/react-native-splash-screen",
+  "version": "1.0.0",
+  "description": "Splash screen for React Native that hides automatically after the app loads, works on both iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-splash-screen",
+    "splash-screen",
+    "splashscreen",
+    "splash",
+    "launch-screen",
+    "launchscreen",
+    "android",
+    "ios"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.57.0"
+  },
+  "author": "furkankayadev",
+  "license": "MIT"
+}
