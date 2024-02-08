@@ -31,7 +31,7 @@ Run
 
 `npm i furkankaya-react-native-splash-screen --save` 
 or
-`yarn  add furkankaya-react-native-splash-screen` 
+`yarn add furkankaya-react-native-splash-screen` 
 #### Installation  
 
 **Android:**
