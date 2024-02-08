@@ -159,7 +159,7 @@ Update `AppDelegate.mm` with the following additions:
 
 ```
 
-###Example
+### Example
 
 Before
 ![before](https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/2a4c1afc-3f6a-4943-98b4-76453912640f)
