@@ -17,7 +17,7 @@ Splash screen for React Native that hides automatically after the app loads, wor
 - [Examples](#examples)
 - [Getting started](#getting-started)
 - [API](#api)
-- [iOS](#iOS-Launch-Screen-Create)
+- [iOS-LaunchScreen](#iOS-Launch-Screen-Create)
 
 
 ## Examples  
@@ -186,7 +186,7 @@ Create a file called `launch_screen.xml` in `app/src/main/res/layout` (create th
 </RelativeLayout>
 ```
 
-### iOS    
+### iOS-LaunchScreen    
 
 Customize your splash screen via `LaunchScreen.storyboard` or `LaunchScreen.xib`。
 
