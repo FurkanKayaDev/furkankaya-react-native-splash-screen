@@ -17,7 +17,7 @@ Splash screen for React Native that hides automatically after the app loads, wor
 - [Examples](#examples)
 - [Getting started](#getting-started)
 - [API](#api)
-- [iOS-LaunchScreen](#iOS-Launch-Screen-Create)
+- [iOS-LaunchScreen](#iOS-LaunchScreen)
 
 
 ## Examples  
