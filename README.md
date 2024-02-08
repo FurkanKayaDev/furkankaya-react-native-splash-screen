@@ -29,8 +29,8 @@ Splash screen for React Native that hides automatically after the app loads, wor
 ### First step(Download):
 Run 
 
-`npm i furkankaya-react-native-splash-screen --save` or
-
+`npm i furkankaya-react-native-splash-screen --save` 
+or
 `yarn  add furkankaya-react-native-splash-screen` 
 #### Installation  
 
