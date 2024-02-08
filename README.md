@@ -1,4 +1,4 @@
-# react-native-splash-screen
+# furkankaya-react-native-splash-screen
 
 
 <p align="center" >
