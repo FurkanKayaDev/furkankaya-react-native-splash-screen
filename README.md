@@ -194,7 +194,7 @@ Tutorial Video:
 
 
 
-https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/07d2ac52-cd56-447b-9ebf-719fa8605cf3
+[![Tutorial Video](https://github.com/FurkanKayaDev/react-native-splash-screen/assets/103508575/07d2ac52-cd56-447b-9ebf-719fa8605cf3)](#iOS-Launch-Screen-Create)
 
 
 
