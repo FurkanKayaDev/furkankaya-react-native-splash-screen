@@ -186,7 +186,7 @@ Create a file called `launch_screen.xml` in `app/src/main/res/layout` (create th
 </RelativeLayout>
 ```
 
-### iOS-LaunchScreen    
+## iOS-LaunchScreen
 
 Customize your splash screen via `LaunchScreen.storyboard` or `LaunchScreen.xib`。
 
