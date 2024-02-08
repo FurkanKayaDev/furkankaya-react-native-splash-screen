@@ -1,6 +1,6 @@
 {
   "name": "furkankaya-react-native-splash-screen",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "description": "Splash screen for React Native that hides automatically after the app loads, works on both iOS and Android",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "bugs": {
     "url": "https://github.com/FurkanKayaDev/react-native-splash-screen/issues"
   },
+  "homepage": "https://github.com/FurkanKayaDev/react-native-splash-screen",
   "peerDependencies": {
     "react-native": ">=0.57.0"
   },
