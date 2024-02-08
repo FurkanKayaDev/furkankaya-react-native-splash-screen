@@ -61,10 +61,7 @@ As of React Native 0.73, Kotlin has become the recommended language for Android 
 
 
 ```java
-// react-native-splash-screen >= 0.3.1
-import org.devio.rn.splashscreen.SplashScreenReactPackage;
-// react-native-splash-screen < 0.3.1
-import com.cboy.rn.splashscreen.SplashScreenReactPackage;
+import org.devio.rn.splashscreen.SplashScreenReactPackage; 
 
 public class MainApplication extends Application implements ReactApplication {
 
