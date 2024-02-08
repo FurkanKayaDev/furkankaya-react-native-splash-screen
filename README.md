@@ -56,7 +56,7 @@ dependencies {
 ### Important Notice for React Native 0.73 and above
 As of React Native 0.73, Kotlin has become the recommended language for Android development. This means that while the previous versions required changes to the MainApplication.java file, for React Native 0.73 and above, you need to make the necessary changes to the MainActivity.kt
 
-#####react-native < 0.73 
+#### react-native < 0.73 
 
 3. Update the MainApplication.java file to use `furkankaya-react-native-splash-screen` via the following changes:
 
@@ -91,7 +91,7 @@ public class MainApplication extends Application implements ReactApplication {
 }
 ```
 
-#####react-native >= 0.73
+#### react-native >= 0.73
 
 3. Update the MainActivity.kt file to use `furkankaya-react-native-splash-screen` via the following changes:
 
