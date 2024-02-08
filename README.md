@@ -150,23 +150,19 @@ Update `AppDelegate.mm` with the following additions:
   self.initialProps = @{};
   
   //------------------------------------------------------------//
-
   bool didLaunchFinish = [super application:application didFinishLaunchingWithOptions:launchOptions]; //here
 
   [RNSplashScreen show]; //here
   
   return didLaunchFinish; //here
-  
   //------------------------------------------------------------//
   
   OR
-  
+
   //------------------------------------------------------------//
-  
     [RNSplashScreen show];  // here
 	
     return YES;
-	
   //------------------------------------------------------------//
 }
 
